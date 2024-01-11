@@ -1,1 +1,0 @@
-# Check-list. Functional-testing
