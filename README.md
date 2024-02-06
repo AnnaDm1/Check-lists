@@ -1,7 +1,19 @@
-## Links to Google.docs 
-[Functional testing check list](https://docs.google.com/spreadsheets/d/1m6tRHkMdxh2VSIr9MvomqJONbKEyQrtUrbS2gSADmfI/edit?usp=sharing)
+## Чек-листы
+Чек-листы созданы для тестирования проекта Gectaro
+ 
+ Чек-лист для функционального тестирования создан с помощью документации предоставленной заказчиком, а также с помощью исследовательского тестирования.
 
-[API check list and postman collection](https://docs.google.com/spreadsheets/d/1Y-H9tbeewwxAf11vUYce7Vpsi2JQlQrnUiMYWaWWmoA/edit?usp=sharing)
+ Чек-лист тестирования API создан с использованием Swagger  и содержит только положительные тесты (по просьбе заказчика).
 
-[UI check list](https://docs.google.com/spreadsheets/d/18omKl73ao281K3PWSE3S8Tmz7PFvKG2qlLVPRpurEkI/edit#gid=1941090028)
+ Чек-лист тестирования UI создан с помощью предоставленных макетов в Figma.
+
+
+ Тут можно посмотреть [тест-план](https://docs.google.com/document/d/120aCcGoJaSHojNDuaaBXzmKvk0BQqSXqpMS31AZuynM/edit#heading=h.c3fowce02afe) и тестируемые функции.
+
+
+
+
+## Link to Google.docs 
+Все чек-листы [тут.] (https://docs.google.com/spreadsheets/d/1vcQxLO1bSwd_j5Pg6HHMxjauD7fd91migpJNRpM9oPc/edit#gid=0) + бонус в виде чек-листа для тестировани лифта
+
 
