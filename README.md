@@ -8,12 +8,9 @@
  Чек-лист тестирования UI создан с помощью предоставленных макетов в Figma.
 
 
- Тут можно посмотреть [тест-план](https://docs.google.com/document/d/120aCcGoJaSHojNDuaaBXzmKvk0BQqSXqpMS31AZuynM/edit#heading=h.c3fowce02afe) и тестируемые функции.
-
-
-
-
 ## Link to Google.docs 
 Все чек-листы [тут.](https://docs.google.com/spreadsheets/d/1vcQxLO1bSwd_j5Pg6HHMxjauD7fd91migpJNRpM9oPc/edit#gid=0) + бонус в виде чек-листа для тестировани лифта
 
+[Проектная презентация](https://docs.google.com/presentation/d/1Amd4h78evoxxb9jA3L3tCfPyBz5W3KRH0ri9DUIub-M/edit?usp=drive_link)
 
+[План тестирования](https://docs.google.com/document/d/120aCcGoJaSHojNDuaaBXzmKvk0BQqSXqpMS31AZuynM/edit?usp=drive_link)
